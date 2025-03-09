@@ -1,7 +1,7 @@
 ## ⇨  Install Script Termux
 ````
 
- git clone https://github.com/Exileominous/empasmlbb
+ git clone https://github.com/Exileominous/EMPASSMLBB
 
  cd empas
 
